@@ -10,10 +10,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/Tianlikai/generator-TBoilterplate"
+  },
   "keywords": [
     "yeoman-generator"
   ],
-  "publishConfig": { "registry": "https://npm.generator-tboilterplate.github.com/" },
   "author": "jason.tian",
   "license": "ISC",
   "dependencies": {
