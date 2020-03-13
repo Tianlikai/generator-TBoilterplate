@@ -13,7 +13,8 @@
   "keywords": [
     "yeoman-generator"
   ],
-  "author": "",
+  "publishConfig": { "registry": "https://npm.generator-tboilterplate.github.com/" },
+  "author": "jason.tian",
   "license": "ISC",
   "dependencies": {
     "@queso/kebab-case": "^1.1.0",
