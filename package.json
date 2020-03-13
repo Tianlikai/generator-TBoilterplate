@@ -1,0 +1,23 @@
+{
+  "name": "generator-tboilterplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generators/app/index.js",
+  "files": [
+    "generators",
+    "utils"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@queso/kebab-case": "^1.1.0",
+    "chalk": "^3.0.0",
+    "yeoman-generator": "^4.4.0"
+  }
+}
